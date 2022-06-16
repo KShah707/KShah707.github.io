@@ -6,11 +6,15 @@
 ```
 
 ### Personal Projects
-I'm currently working on one creative/entrepreneurial coding project each week and blogging about it at [keyurscreativeprojects.substack.com](keyurscreativeprojects.substack.com).
 
+##### Keyur's Creative Projects Blog (Early 2022)
+I spent ~four months working on one creative/entrepreneurial coding project each week and blogging about it at [keyurscreativeprojects.substack.com](keyurscreativeprojects.substack.com). The posts are still archived for future readers.
+
+* __Week 14:__ Retrospective Blog Post [(link)](https://keyurscreativeprojects.substack.com/p/14-retrospective?r=abf02&s=w&utm_campaign=post&utm_medium=web)
+* __Week 7-13:__ Over-the-Counter Medication Search [(demo)](https://dr-flowchart.netlify.app)
 * __Week 6:__ This Page! [(repo)](https://github.com/KShah707/KShah707.github.io)
 * __Week 5:__ Fantasy Hockey Lineup Setter [(repo)](https://github.com/KShah707/FantasyLineupSetter)
-* __Weeks 3-4:__ Choose-Your-Meditation Android App [(repo)](https://github.com/KShah707/MeditationLibrary)
+* __Week 3-4:__ Choose-Your-Meditation Android App [(repo)](https://github.com/KShah707/MeditationLibrary)
 * __Week 2:__ Motivational Firefox Browser Homepage [(repo)](https://github.com/KShah707/MotivationDashboard)
 * __Week 1:__ Old Tweets Downloader [(repo)](https://github.com/KShah707/TweetDownloader)
 
