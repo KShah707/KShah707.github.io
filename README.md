@@ -7,6 +7,11 @@
 
 ### Personal Projects
 
+##### An Intuitive Peek into GPT, for Non-Technical Nerds (March 2023)
+I gave a lecture to the UConn Consulting Group, describing some of the big ideas behind language models like GPT-4 in a visual and intuitive way. It was highly reviewed ("one of the most impressive displays of synthesizing complex information I've ever seen") by students and alumni.
+
+You can access it [on YouTube](https://youtu.be/ExDQ7eXd49Q)!
+
 ##### Keyur's Creative Projects Blog (Early 2022)
 I spent ~four months working on one creative/entrepreneurial coding project each week and blogging about it at [keyurscreativeprojects.substack.com](keyurscreativeprojects.substack.com). The posts are still archived for future readers.
 
