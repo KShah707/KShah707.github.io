@@ -43,10 +43,11 @@ I spent ~four months working on one creative/entrepreneurial coding project each
 
 ### My Other Interests
 We'll get along if you love to talk about:
-* Social Skills _(confidence challenges, improv comedy/role-playing games, body language)_
-* Psychology & Mindset _(meditation, self-esteem, values & motivations)_
-* Business Strategy _(almost became a management consultant)_
-* NHL Hockey _(Go Blue Jackets!)_
-* Murder Mysteries _(is it weird that they help me fall asleep...?)_
+* Social Habits & Science
+* Psychology & Mindset
+* Business Strategy
+* NHL Hockey
+* Ancient World History/Geography
+* Murder Mysteries
 
-If you're the rare person who believes in finding community online -- would love to meet you at [my GitHub username]@gmail.com!
+If you're the same kind of weird as me -- would love to meet you at [my GitHub username]@gmail.com!
